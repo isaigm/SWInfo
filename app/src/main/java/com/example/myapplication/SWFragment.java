@@ -30,7 +30,6 @@ public class SWFragment extends Fragment {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
     }
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
@@ -78,7 +77,6 @@ public class SWFragment extends Fragment {
             }
         });
     }
-
     private void getVehicles(){
         Retrofit retrofit = new Retrofit.Builder().baseUrl("https://swapi.dev/api/")
                 .addConverterFactory(GsonConverterFactory.create())
