@@ -1,7 +1,5 @@
 package com.example.myapplication;
 
-
-
 public class Vehicle {
     private String name;
     private String model;

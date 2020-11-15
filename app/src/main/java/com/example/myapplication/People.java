@@ -4,7 +4,6 @@ public class People {
     private String name;
     private int height;
     private String birth_year;
-
     public String getName() {
         return name;
     }

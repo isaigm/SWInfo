@@ -1,6 +1,5 @@
 package com.example.myapplication;
 
-
 public class Planet {
     private String name;
     private int diameter;

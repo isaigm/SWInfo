@@ -15,7 +15,6 @@ public class MainActivity extends AppCompatActivity {
         ((AppCompatActivity)this).getSupportActionBar().setTitle("Star Wars API");
         ViewPager2 viewPager2 = findViewById(R.id.pager);
         ViewPagerAdapter viewPagerAdapter = new ViewPagerAdapter(getSupportFragmentManager(), getLifecycle());
-        viewPagerAdapter.createFragment(0);
         viewPager2.setAdapter(viewPagerAdapter);
         TabLayout tabLayout = findViewById(R.id.tab_layout);
         new TabLayoutMediator(tabLayout, viewPager2, (tab, position) -> {
