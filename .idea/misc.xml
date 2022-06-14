@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/isaig/SWInfo/app/src/main/res/layout/activity_main.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/isaig/SWInfo/app/src/main/res/layout/agregar_planta.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/isaig/SWInfo/app/src/main/res/layout/fragment_sw.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/isaig/SWInfo/app/src/main/res/layout/item_list.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/isaig/SWInfo/app/src/main/res/layout/planta_fragment.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/isaig/misantla/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/isaig/misantla/app/src/main/res/layout/agregar_planta.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/isaig/misantla/app/src/main/res/layout/fade_in.xml" value="0.1983695652173913" />
+        <entry key="..\:/Users/isaig/misantla/app/src/main/res/layout/fauna_fragment.xml" value="0.12001811594202899" />
+        <entry key="..\:/Users/isaig/misantla/app/src/main/res/layout/fauna_popup.xml" value="0.12001811594202899" />
+        <entry key="..\:/Users/isaig/misantla/app/src/main/res/layout/flora_fragment.xml" value="0.15384615384615385" />
+        <entry key="..\:/Users/isaig/misantla/app/src/main/res/layout/flora_popup.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/isaig/misantla/app/src/main/res/layout/item_fauna.xml" value="0.12001811594202899" />
+        <entry key="..\:/Users/isaig/misantla/app/src/main/res/layout/item_flora.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/isaig/misantla/app/src/main/res/layout/item_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/isaig/misantla/app/src/main/res/layout/item_planta.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/isaig/misantla/app/src/main/res/layout/item_tradicion.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/isaig/misantla/app/src/main/res/layout/planta_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/isaig/misantla/app/src/main/res/layout/planta_popup.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/isaig/misantla/app/src/main/res/layout/tradicion_fragment.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/isaig/misantla/app/src/main/res/layout/tradicion_popup.xml" value="0.17255434782608695" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
